@@ -5,10 +5,10 @@
 
 ## 后端目录
 
-- [Github]()
-- [Gitee]()
+- [Github](https://github.com/cdk8s/sculptor-boot-docs/tree/master/backend)
+- [Gitee](https://gitee.com/cdk8s/sculptor-boot-docs/tree/master/backend)
 
 ## 前端目录
 
-- [Github]()
-- [Gitee]()
+- [Github](https://github.com/cdk8s/sculptor-boot-docs/tree/master/frontend)
+- [Gitee](https://gitee.com/cdk8s/sculptor-boot-docs/tree/master/frontend)
