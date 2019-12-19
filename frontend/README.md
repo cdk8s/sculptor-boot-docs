@@ -24,7 +24,7 @@
 
 ## 完整依赖包集合
 
-- 前端 package.json [Github](https://github.com/cdk8s/sculptor-boot-frontend/blob/master/package.json)
+- 前端 package.json [Github](https://github.com/cdk8s/sculptor-boot-frontend/blob/master/package.json) [Gitee](https://gitee.com/cdk8s/sculptor-boot-frontend/blob/master/package.json)
 
 ## 前端核心依赖
 
