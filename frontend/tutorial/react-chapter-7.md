@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》第 7 章：修改登录逻辑
-date: 2018-07-12 21:31:22
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 7 章：修改登录逻辑
+
 
 ## 登录效果图
 

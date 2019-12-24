@@ -1,10 +1,4 @@
----
-title: 《最适合后端的 React Admin》第 2 章：IDE 选择、如何 Debug
-date: 2018-04-09 22:32:55
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 2 章：IDE 选择、如何 Debug
 
 
 ## WebStorm 首次打开 Demo 项目

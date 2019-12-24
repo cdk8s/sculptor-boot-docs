@@ -1,11 +1,4 @@
----
-title: 《最适合后端的 React Admin》第 1 章：搭建环境和运行 Demo
-date: 2018-04-02 20:47:45
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
-
+#《最适合后端的 React Admin》第 1 章：搭建环境和运行 Demo
 
 ## 声明
 
@@ -21,6 +14,9 @@ tags: [React]
 
 ## 前端开发所需软件环境
 
+- 软件打包下载：
+    - [Windows 环境（密码:38yk）](https://pan.baidu.com/s/1dFKwxAbxb0IQpIyrnONniw)
+    - [macOS 环境（密码:z0eb）](https://pan.baidu.com/s/1EBocUjhg3e183j1oJ2eqzw)
 - [Node.js](https://nodejs.org/en/)  
     - 当前（201804）最新稳定版本：8.11.1 LTS（201810 更新：当前最新版本 8.12.0 LTS）
     - 如果你此时在是未来时间看这篇文章，并且使用 Node.js 最新版出现问题，请下载我保存在百度云的历史版本，这样有助于你学习。并且希望你出现版本兼容问题可以进行反馈。

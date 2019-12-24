@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》第 2 章：依赖模块、目录结构
-date: 2018-04-03 21:22:35
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 2 章：依赖模块、目录结构
+
 
 ## 主要依赖模块 (基于 umi 创建)
 

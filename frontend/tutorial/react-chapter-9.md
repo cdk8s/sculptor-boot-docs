@@ -1,10 +1,4 @@
----
-title: 《最适合后端的 React Admin》第 9 章：修改 Demo 侧边栏菜单
-date: 2018-08-11 23:35:55
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 9 章：修改 Demo 侧边栏菜单
 
 
 ## 侧边栏数据结构

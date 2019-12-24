@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》第 3 章：与后端开发的规范约定
-date: 2018-04-07 19:32:55
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 3 章：与后端开发的规范约定
+
 
 ## 字典数据：全球国家 JSON
 

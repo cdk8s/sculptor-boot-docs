@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》第 10 章：新模块的 CURD 过程
-date: 2018-09-11 20:21:23
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 10 章：新模块的 CURD 过程
+
 
 
 ## 开发注意点

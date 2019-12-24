@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》第 5 章：公共变量修改、后端字典数据存储
-date: 2018-04-11 21:12:23
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 5 章：公共变量修改、后端字典数据存储
+
 
 ## 公共常量添加、引用
 

@@ -1,10 +1,4 @@
----
-title: 《最适合后端的 React Admin》第 6 章：修改 Ajax 请求框架（Axios 拦截器配置）
-date: 2018-05-12 22:32:13
-description: "本系列更多的作用是如何使用和引导现代前端开发的思路"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》第 6 章：修改 Ajax 请求框架（Axios 拦截器配置）
 
 
 ## 请求地址全局变量

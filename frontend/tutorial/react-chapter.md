@@ -1,10 +1,5 @@
----
-title: 《最适合后端的 React Admin》目录、主要内容
-date: 2018-03-17 22:23:27
-description: "计划至少需要些 20 章节"
-categories: [React]
-tags: [React]
----
+#《最适合后端的 React Admin》目录、主要内容
+
 
 ## 《最适合后端的 React Admin》特别章节：开篇
 
