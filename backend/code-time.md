@@ -16,7 +16,7 @@
 - POJO 类
 - 缓存：Redis、序列化、反序列化
 - for 循环
-- 不自增的 ID 组件
+- [ID 生成方式](./id-generation.md)
 - int 和 Integer，long 和 Long，boolean 和 Boolean 的用法
 - 非空判断、空逻辑
 - 是否 lambda 方式
