@@ -10,7 +10,7 @@
     - Redis
     - jasypt 加密配置
     - Druid 与 Hikari
-    - TKey SSO
+    - [TKey SSO](https://github.com/cdk8s/tkey)
     - 单元测试配置
     - log 输出配置
     - Init 操作
