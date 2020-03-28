@@ -51,6 +51,11 @@
 - [Github](https://github.com/cdk8s/sculptor-boot-docs/tree/master/development-environment.md)
 - [Gitee](https://gitee.com/cdk8s/sculptor-boot-docs/tree/master/development-environment.md)
 
+## 快速开始
+
+- [Github](https://github.com/cdk8s/sculptor-boot-docs/tree/master/quick-start.md)
+- [Gitee](https://gitee.com/cdk8s/sculptor-boot-docs/tree/master/quick-start.md)
+
 -------------------------------------------------------------------
 
 ## 后端目录
