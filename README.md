@@ -70,6 +70,13 @@
 - [Github](https://github.com/cdk8s/sculptor-boot-docs/tree/master/frontend)
 - [Gitee](https://gitee.com/cdk8s/sculptor-boot-docs/tree/master/frontend)
 
+## 大数据
+
+- 阿里云实时数仓实战
+- 阿里云离线数仓实战
+- 我发现尚硅谷教育已经和阿里云合作已经出了，也讲得很好，所以我们就不重复造轮子了
+- 视频地址：<https://edu.aliyun.com/user/1238642/teach>
+
 -------------------------------------------------------------------
 
 ## 新人考核标准
